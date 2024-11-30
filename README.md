@@ -136,4 +136,4 @@ app.use(
 -------------------------------------------------------------------------------
 
 ## This information and codebase are sourced from Hitesh Choudhary's teachings or projects.
-## Special Thanks to hiteshchoudhary. 🤝
+## Special Thanks to @hiteshchoudhary. 🤝
