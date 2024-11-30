@@ -135,5 +135,5 @@ app.use(
 ```logger.debug('This is a debug message in magenta');```<br>
 -------------------------------------------------------------------------------
 
-## This is Information and Codebase is Carry from Hitesh Choudhru
-
+# This information and codebase are sourced from Hitesh Choudhary teachings or projects.
+# Special Thanks to hiteshchoudhary. 🤝
