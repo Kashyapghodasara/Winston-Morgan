@@ -1,5 +1,5 @@
 # Winston-Morgan
-----------------------------------
+---------------------------------------------------------------------------
 
 ## Winston Logger:
 Winston is a versatile and popular logging library for Node.js. It supports multiple logging levels (like info, warn, error) and can output logs in various formats, such as JSON or plain text. Winston allows logs to be stored in different transports (e.g., console, files, HTTP endpoints, or databases). It is highly customizable, allowing users to configure different log levels for different environments and add metadata to logs.
@@ -134,7 +134,7 @@ app.use(
  6. This is a debug message in magenta<br>
 ```logger.debug('This is a debug message in magenta');```<br>
 -------------------------------------------------------------------------------
-
+-------------------------------------------------------------------------------
 ## This information and codebase are sourced from Hitesh Choudhary's teachings or projects.
 
 ## Special thanks to @hiteshchoudhary for their guidance and support! 🤝
